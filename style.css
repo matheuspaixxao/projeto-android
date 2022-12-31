@@ -1,8 +1,11 @@
-/*Projeto finalizado */
-
 * {
   margin: 0px;
   padding: 0px;
+}
+
+@font-face {
+  font-family: "android";
+  src: url("../fontes/idroid.otf") format("opentype");
 }
 
 :root {
